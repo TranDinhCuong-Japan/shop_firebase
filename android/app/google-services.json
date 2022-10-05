@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998540516249",
+    "firebase_url": "https://shop-firebase-f0336-default-rtdb.firebaseio.com",
+    "project_id": "shop-firebase-f0336",
+    "storage_bucket": "shop-firebase-f0336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998540516249:android:c2feed4cab6b43bec01108",
+        "android_client_info": {
+          "package_name": "com.cuongtran.shop_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998540516249-shocthbhvp03tu8eqcde0jtcj0jecoqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLnI4vru9U5Z8RW0pD6hCoMtQWo4p11ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998540516249-shocthbhvp03tu8eqcde0jtcj0jecoqs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998540516249-mn4h0kjojqho8e57ka25uerdlie74k14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cuongtran.shopFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
